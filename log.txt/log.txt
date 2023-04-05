@@ -1,0 +1,313 @@
+2023-04-04 15:59:22.266 +05:30 [INF] Hotfolder-Process Start.
+2023-04-04 15:59:22.503 +05:30 [INF] Hotfolder-Process End.
+2023-04-04 15:59:22.506 +05:30 [INF] Pre-Process Start.
+2023-04-04 15:59:22.506 +05:30 [INF] FileName : -7wDAAAAQAAJ
+2023-04-04 15:59:22.511 +05:30 [INF] HotFolder.exe started.
+2023-04-04 15:59:22.685 +05:30 [INF] Doc object created.
+2023-04-04 15:59:22.719 +05:30 [INF] total Page Count : 191
+2023-04-04 15:59:22.720 +05:30 [INF] Start removing watermark.
+2023-04-04 15:59:22.763 +05:30 [INF] watermark removed
+2023-04-04 15:59:22.834 +05:30 [INF] removed page no : 0
+2023-04-04 15:59:33.640 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\-7wDAAAAQAAJ_output.pdf
+2023-04-04 15:59:33.658 +05:30 [INF] Pre-Process End.
+2023-04-04 15:59:33.659 +05:30 [INF] file : -7wDAAAAQAAJ , Pre-Process Time : 00:00:11.1524933
+2023-04-04 16:05:17.730 +05:30 [INF] file : -7wDAAAAQAAJ_output.epub creted. time : 00:05:55.2239895
+2023-04-04 16:05:27.736 +05:30 [INF] file : -7wDAAAAQAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\-7wDAAAAQAAJ_output.epub; time : 00:06:05.2299798
+2023-04-04 16:05:27.737 +05:30 [INF] Post-Process Start.
+2023-04-04 16:07:07.668 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 16:07:07.668 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 16:07:20.305 +05:30 [ERR] System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at EPubGenerator.Provider.IncorrectWordDetailsProvider.GenerateIncorrectWordImage(String pdfPath, List`1 wrongWordList, String outputPath) in D:\EpubGenerator\Provider\IncorrectWordDetailsProvider.cs:line 458
+   at EPubGenerator.Process.PostProcessor.GenerateBook() in D:\EpubGenerator\Process\PostProcessor.cs:line 277
+   at EPubGenerator.ViewModel.MainWindowVM.PostProcessing(String fileName) in D:\EpubGenerator\ViewModel\MainWindowVM.cs:line 168
+2023-04-04 16:17:11.303 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 16:17:11.305 +05:30 [INF] Pre-Process Start.
+2023-04-04 16:17:11.305 +05:30 [INF] FileName : -6w9AQAAMAAJ
+2023-04-04 16:17:11.306 +05:30 [INF] Doc object created.
+2023-04-04 16:17:11.326 +05:30 [INF] total Page Count : 227
+2023-04-04 16:17:11.327 +05:30 [INF] Start removing watermark.
+2023-04-04 16:17:11.361 +05:30 [INF] watermark removed
+2023-04-04 16:17:11.371 +05:30 [INF] removed page no : 0
+2023-04-04 16:17:24.816 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\-6w9AQAAMAAJ_output.pdf
+2023-04-04 16:17:24.839 +05:30 [INF] Pre-Process End.
+2023-04-04 16:17:24.839 +05:30 [INF] file : -6w9AQAAMAAJ , Pre-Process Time : 00:00:13.5337063
+2023-04-04 16:23:00.182 +05:30 [INF] file : -6w9AQAAMAAJ_output.epub creted. time : 00:05:48.8772346
+2023-04-04 16:23:10.190 +05:30 [INF] file : -6w9AQAAMAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\-6w9AQAAMAAJ_output.epub; time : 00:05:58.8847267
+2023-04-04 16:23:10.190 +05:30 [INF] Post-Process Start.
+2023-04-04 16:24:12.565 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 16:24:12.565 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 16:25:11.861 +05:30 [INF] Merge img count : 201
+2023-04-04 16:25:14.421 +05:30 [INF] READ FILE FROM URL
+2023-04-04 16:25:18.107 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 16:25:19.409 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\-6w9AQAAMAAJ_output\OEBPS\OcrResult.json
+2023-04-04 16:25:21.091 +05:30 [INF] Post-Process End.
+2023-04-04 16:25:21.091 +05:30 [INF] file : -6w9AQAAMAAJ_output.epub , Pre-Process Time : 00:08:09.7861628
+2023-04-04 16:43:43.692 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 16:43:43.694 +05:30 [INF] Pre-Process Start.
+2023-04-04 16:43:43.694 +05:30 [INF] FileName : EHQaAAAAYAAJ
+2023-04-04 16:43:43.695 +05:30 [INF] Doc object created.
+2023-04-04 16:43:43.718 +05:30 [INF] total Page Count : 89
+2023-04-04 16:43:43.718 +05:30 [INF] Start removing watermark.
+2023-04-04 16:43:43.731 +05:30 [INF] watermark removed
+2023-04-04 16:43:43.740 +05:30 [INF] removed page no : 0
+2023-04-04 16:43:48.762 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\EHQaAAAAYAAJ_output.pdf
+2023-04-04 16:43:48.779 +05:30 [INF] Pre-Process End.
+2023-04-04 16:43:48.779 +05:30 [INF] file : EHQaAAAAYAAJ , Pre-Process Time : 00:00:05.0857004
+2023-04-04 16:48:35.320 +05:30 [INF] file : EHQaAAAAYAAJ_output.epub creted. time : 00:04:51.6260157
+2023-04-04 16:48:45.334 +05:30 [INF] file : EHQaAAAAYAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\EHQaAAAAYAAJ_output.epub; time : 00:05:01.6404239
+2023-04-04 16:48:45.335 +05:30 [INF] Post-Process Start.
+2023-04-04 16:50:48.649 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 16:50:48.649 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 16:53:38.580 +05:30 [INF] Merge img count : 1466
+2023-04-04 16:53:40.819 +05:30 [INF] READ FILE FROM URL
+2023-04-04 16:53:44.091 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 16:54:43.391 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\EHQaAAAAYAAJ_output\OEBPS\OcrResult.json
+2023-04-04 16:54:45.621 +05:30 [INF] Post-Process End.
+2023-04-04 16:54:45.621 +05:30 [INF] file : EHQaAAAAYAAJ_output.epub , Pre-Process Time : 00:11:01.9280415
+2023-04-04 17:01:05.868 +05:30 [INF] Hotfolder-Process Start.
+2023-04-04 17:01:06.259 +05:30 [INF] Hotfolder-Process End.
+2023-04-04 17:01:06.262 +05:30 [INF] Pre-Process Start.
+2023-04-04 17:01:06.262 +05:30 [INF] FileName : EHpMAAAAYAAJ
+2023-04-04 17:01:06.278 +05:30 [INF] HotFolder.exe started.
+2023-04-04 17:01:06.426 +05:30 [INF] Doc object created.
+2023-04-04 17:01:06.497 +05:30 [INF] total Page Count : 85
+2023-04-04 17:01:06.498 +05:30 [INF] Start removing watermark.
+2023-04-04 17:01:06.543 +05:30 [INF] watermark removed
+2023-04-04 17:01:06.609 +05:30 [INF] removed page no : 0
+2023-04-04 17:01:15.221 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\EHpMAAAAYAAJ_output.pdf
+2023-04-04 17:01:15.244 +05:30 [INF] Pre-Process End.
+2023-04-04 17:01:15.244 +05:30 [INF] file : EHpMAAAAYAAJ , Pre-Process Time : 00:00:08.9819408
+2023-04-04 17:06:18.387 +05:30 [INF] file : EHpMAAAAYAAJ_output.epub creted. time : 00:05:12.1249115
+2023-04-04 17:06:28.392 +05:30 [INF] file : EHpMAAAAYAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\EHpMAAAAYAAJ_output.epub; time : 00:05:22.1305616
+2023-04-04 17:06:28.393 +05:30 [INF] Post-Process Start.
+2023-04-04 17:07:25.934 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 17:07:25.934 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 17:07:38.477 +05:30 [ERR] System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at EPubGenerator.Provider.IncorrectWordDetailsProvider.GenerateIncorrectWordImage(String pdfPath, List`1 wrongWordList, String outputPath) in D:\EpubGenerator\Provider\IncorrectWordDetailsProvider.cs:line 458
+   at EPubGenerator.Process.PostProcessor.GenerateBook() in D:\EpubGenerator\Process\PostProcessor.cs:line 277
+   at EPubGenerator.ViewModel.MainWindowVM.PostProcessing(String fileName) in D:\EpubGenerator\ViewModel\MainWindowVM.cs:line 168
+2023-04-04 17:31:02.625 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 17:31:02.627 +05:30 [INF] Pre-Process Start.
+2023-04-04 17:31:02.627 +05:30 [INF] FileName : H-thAAAAcAAJ
+2023-04-04 17:31:02.628 +05:30 [INF] Doc object created.
+2023-04-04 17:31:02.648 +05:30 [INF] total Page Count : 47
+2023-04-04 17:31:02.648 +05:30 [INF] Start removing watermark.
+2023-04-04 17:31:02.655 +05:30 [INF] watermark removed
+2023-04-04 17:31:02.664 +05:30 [INF] removed page no : 0
+2023-04-04 17:31:05.202 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\H-thAAAAcAAJ_output.pdf
+2023-04-04 17:31:05.245 +05:30 [INF] Pre-Process End.
+2023-04-04 17:31:05.245 +05:30 [INF] file : H-thAAAAcAAJ , Pre-Process Time : 00:00:02.6176474
+2023-04-04 17:33:22.955 +05:30 [INF] file : H-thAAAAcAAJ_output.epub creted. time : 00:02:20.3280303
+2023-04-04 17:33:32.959 +05:30 [INF] file : H-thAAAAcAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\H-thAAAAcAAJ_output.epub; time : 00:02:30.3313831
+2023-04-04 17:33:32.959 +05:30 [INF] Post-Process Start.
+2023-04-04 17:33:37.933 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 17:33:37.933 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 17:33:42.248 +05:30 [INF] Merge img count : 7
+2023-04-04 17:33:44.341 +05:30 [INF] READ FILE FROM URL
+2023-04-04 17:33:47.901 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 17:33:48.282 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\H-thAAAAcAAJ_output\OEBPS\OcrResult.json
+2023-04-04 17:33:48.663 +05:30 [INF] Post-Process End.
+2023-04-04 17:33:48.663 +05:30 [INF] file : H-thAAAAcAAJ_output.epub , Pre-Process Time : 00:02:46.0360733
+2023-04-04 17:38:31.920 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 17:38:31.921 +05:30 [INF] Pre-Process Start.
+2023-04-04 17:38:31.921 +05:30 [INF] FileName : H-thAAAAcAAJ
+2023-04-04 17:38:31.922 +05:30 [INF] Doc object created.
+2023-04-04 17:38:31.926 +05:30 [INF] total Page Count : 47
+2023-04-04 17:38:31.926 +05:30 [INF] Start removing watermark.
+2023-04-04 17:38:31.934 +05:30 [INF] watermark removed
+2023-04-04 17:38:31.943 +05:30 [INF] removed page no : 0
+2023-04-04 17:38:34.267 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\H-thAAAAcAAJ_output.pdf
+2023-04-04 17:38:34.282 +05:30 [INF] Pre-Process End.
+2023-04-04 17:38:34.282 +05:30 [INF] file : H-thAAAAcAAJ , Pre-Process Time : 00:00:02.3609444
+2023-04-04 17:40:22.180 +05:30 [INF] file : H-thAAAAcAAJ_output.epub creted. time : 00:01:50.2593352
+2023-04-04 17:40:32.186 +05:30 [INF] file : H-thAAAAcAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\H-thAAAAcAAJ_output.epub; time : 00:02:00.2650523
+2023-04-04 17:40:32.186 +05:30 [INF] Post-Process Start.
+2023-04-04 17:40:38.232 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 17:40:38.232 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 17:40:42.751 +05:30 [INF] Merge img count : 7
+2023-04-04 17:40:44.324 +05:30 [INF] READ FILE FROM URL
+2023-04-04 17:40:47.630 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 17:40:47.926 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\H-thAAAAcAAJ_output\OEBPS\OcrResult.json
+2023-04-04 17:40:48.342 +05:30 [ERR] System.UnauthorizedAccessException: Access to the path is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at EPubGenerator.Process.PostProcessor.GenerateBook()
+   at EPubGenerator.ViewModel.MainWindowVM.PostProcessing(String fileName)
+2023-04-04 17:43:41.229 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 17:43:41.230 +05:30 [INF] Pre-Process Start.
+2023-04-04 17:43:41.230 +05:30 [INF] FileName : H-thAAAAcAAJ
+2023-04-04 17:43:41.232 +05:30 [INF] Doc object created.
+2023-04-04 17:43:41.236 +05:30 [INF] total Page Count : 47
+2023-04-04 17:43:41.236 +05:30 [INF] Start removing watermark.
+2023-04-04 17:43:41.244 +05:30 [INF] watermark removed
+2023-04-04 17:43:41.253 +05:30 [INF] removed page no : 0
+2023-04-04 17:43:43.776 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\H-thAAAAcAAJ_output.pdf
+2023-04-04 17:43:43.793 +05:30 [INF] Pre-Process End.
+2023-04-04 17:43:43.793 +05:30 [INF] file : H-thAAAAcAAJ , Pre-Process Time : 00:00:02.5628239
+2023-04-04 17:45:21.675 +05:30 [INF] file : H-thAAAAcAAJ_output.epub creted. time : 00:01:40.4447833
+2023-04-04 17:45:31.691 +05:30 [INF] file : H-thAAAAcAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\H-thAAAAcAAJ_output.epub; time : 00:01:50.4605432
+2023-04-04 17:45:31.691 +05:30 [INF] Post-Process Start.
+2023-04-04 17:45:36.726 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 17:45:36.726 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 17:45:41.207 +05:30 [INF] Merge img count : 7
+2023-04-04 17:45:42.713 +05:30 [INF] READ FILE FROM URL
+2023-04-04 17:45:45.909 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 17:45:46.212 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\H-thAAAAcAAJ_output\OEBPS\OcrResult.json
+2023-04-04 17:45:46.683 +05:30 [INF] Post-Process End.
+2023-04-04 17:45:46.683 +05:30 [INF] file : H-thAAAAcAAJ_output.epub , Pre-Process Time : 00:02:05.4525912
+2023-04-04 17:57:21.612 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 17:57:21.613 +05:30 [INF] Pre-Process Start.
+2023-04-04 17:57:21.613 +05:30 [INF] FileName : H-thAAAAcAAJ
+2023-04-04 17:57:21.615 +05:30 [INF] Doc object created.
+2023-04-04 17:57:21.620 +05:30 [INF] total Page Count : 47
+2023-04-04 17:57:21.620 +05:30 [INF] Start removing watermark.
+2023-04-04 17:57:21.626 +05:30 [INF] watermark removed
+2023-04-04 17:57:21.636 +05:30 [INF] removed page no : 0
+2023-04-04 17:57:24.065 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\H-thAAAAcAAJ_output.pdf
+2023-04-04 17:57:24.082 +05:30 [INF] Pre-Process End.
+2023-04-04 17:57:24.082 +05:30 [INF] file : H-thAAAAcAAJ , Pre-Process Time : 00:00:02.4688773
+2023-04-04 17:59:20.673 +05:30 [INF] file : H-thAAAAcAAJ_output.epub creted. time : 00:01:59.0603152
+2023-04-04 17:59:30.695 +05:30 [INF] file : H-thAAAAcAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\H-thAAAAcAAJ_output.epub; time : 00:02:09.0806674
+2023-04-04 17:59:30.695 +05:30 [INF] Post-Process Start.
+2023-04-04 17:59:35.405 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 17:59:35.405 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 17:59:39.605 +05:30 [INF] Merge img count : 7
+2023-04-04 17:59:41.062 +05:30 [INF] READ FILE FROM URL
+2023-04-04 17:59:44.335 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 17:59:44.637 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\H-thAAAAcAAJ_output\OEBPS\OcrResult.json
+2023-04-04 17:59:44.962 +05:30 [INF] Post-Process End.
+2023-04-04 17:59:44.962 +05:30 [INF] file : H-thAAAAcAAJ_output.epub , Pre-Process Time : 00:02:23.3479410
+2023-04-04 18:04:27.140 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 18:04:27.141 +05:30 [INF] Pre-Process Start.
+2023-04-04 18:04:27.141 +05:30 [INF] FileName : H-thAAAAcAAJ
+2023-04-04 18:04:27.142 +05:30 [INF] Doc object created.
+2023-04-04 18:04:27.146 +05:30 [INF] total Page Count : 47
+2023-04-04 18:04:27.147 +05:30 [INF] Start removing watermark.
+2023-04-04 18:04:27.155 +05:30 [INF] watermark removed
+2023-04-04 18:04:27.163 +05:30 [INF] removed page no : 0
+2023-04-04 18:04:29.617 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\H-thAAAAcAAJ_output.pdf
+2023-04-04 18:04:29.623 +05:30 [INF] Pre-Process End.
+2023-04-04 18:04:29.623 +05:30 [INF] file : H-thAAAAcAAJ , Pre-Process Time : 00:00:02.4828012
+2023-04-04 18:06:22.474 +05:30 [INF] file : H-thAAAAcAAJ_output.epub creted. time : 00:01:55.3320904
+2023-04-04 18:06:32.497 +05:30 [INF] file : H-thAAAAcAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\H-thAAAAcAAJ_output.epub; time : 00:02:05.3555733
+2023-04-04 18:06:32.497 +05:30 [INF] Post-Process Start.
+2023-04-04 18:06:49.781 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 18:06:50.436 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 18:07:07.424 +05:30 [INF] Merge img count : 7
+2023-04-04 18:07:08.905 +05:30 [INF] READ FILE FROM URL
+2023-04-04 18:07:12.067 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 18:07:12.363 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\H-thAAAAcAAJ_output\OEBPS\OcrResult.json
+2023-04-04 18:08:48.908 +05:30 [INF] Post-Process End.
+2023-04-04 18:08:48.908 +05:30 [INF] file : H-thAAAAcAAJ_output.epub , Pre-Process Time : 00:04:21.7677538
+2023-04-04 18:09:55.810 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 18:09:55.811 +05:30 [INF] Pre-Process Start.
+2023-04-04 18:09:55.811 +05:30 [INF] FileName : H-thAAAAcAAJ
+2023-04-04 18:09:55.813 +05:30 [INF] Doc object created.
+2023-04-04 18:09:55.817 +05:30 [INF] total Page Count : 47
+2023-04-04 18:09:55.817 +05:30 [INF] Start removing watermark.
+2023-04-04 18:09:55.829 +05:30 [INF] watermark removed
+2023-04-04 18:09:55.840 +05:30 [INF] removed page no : 0
+2023-04-04 18:09:58.168 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\H-thAAAAcAAJ_output.pdf
+2023-04-04 18:09:58.174 +05:30 [INF] Pre-Process End.
+2023-04-04 18:09:58.174 +05:30 [INF] file : H-thAAAAcAAJ , Pre-Process Time : 00:00:02.3624270
+2023-04-04 18:11:20.408 +05:30 [INF] file : H-thAAAAcAAJ_output.epub creted. time : 00:01:24.5963535
+2023-04-04 18:11:30.437 +05:30 [INF] file : H-thAAAAcAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\H-thAAAAcAAJ_output.epub; time : 00:01:34.6249077
+2023-04-04 18:11:30.437 +05:30 [INF] Post-Process Start.
+2023-04-04 18:11:35.772 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 18:11:35.772 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 18:11:40.293 +05:30 [INF] Merge img count : 7
+2023-04-04 18:11:41.729 +05:30 [INF] READ FILE FROM URL
+2023-04-04 18:11:44.910 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 18:11:45.204 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\H-thAAAAcAAJ_output\OEBPS\OcrResult.json
+2023-04-04 18:11:45.583 +05:30 [INF] Post-Process End.
+2023-04-04 18:11:45.583 +05:30 [INF] file : H-thAAAAcAAJ_output.epub , Pre-Process Time : 00:01:49.7719415
+2023-04-04 18:14:07.856 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 18:14:07.869 +05:30 [INF] Pre-Process Start.
+2023-04-04 18:14:07.869 +05:30 [INF] FileName : H-thAAAAcAAJ
+2023-04-04 18:14:07.947 +05:30 [INF] Doc object created.
+2023-04-04 18:14:07.973 +05:30 [INF] total Page Count : 47
+2023-04-04 18:14:07.974 +05:30 [INF] Start removing watermark.
+2023-04-04 18:14:07.994 +05:30 [INF] watermark removed
+2023-04-04 18:14:08.052 +05:30 [INF] removed page no : 0
+2023-04-04 18:14:10.785 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\H-thAAAAcAAJ_output.pdf
+2023-04-04 18:14:10.822 +05:30 [INF] Pre-Process End.
+2023-04-04 18:14:10.823 +05:30 [INF] file : H-thAAAAcAAJ , Pre-Process Time : 00:00:02.9533126
+2023-04-04 18:16:20.479 +05:30 [INF] file : H-thAAAAcAAJ_output.epub creted. time : 00:02:12.6100322
+2023-04-04 18:16:30.491 +05:30 [INF] file : H-thAAAAcAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\H-thAAAAcAAJ_output.epub; time : 00:02:22.6227235
+2023-04-04 18:16:30.493 +05:30 [INF] Post-Process Start.
+2023-04-04 18:16:35.494 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 18:16:35.494 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 18:16:39.959 +05:30 [INF] Merge img count : 7
+2023-04-04 18:16:42.021 +05:30 [INF] READ FILE FROM URL
+2023-04-04 18:16:45.572 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 18:16:45.931 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\H-thAAAAcAAJ_output\OEBPS\OcrResult.json
+2023-04-04 18:16:46.404 +05:30 [INF] Post-Process End.
+2023-04-04 18:16:46.404 +05:30 [INF] file : H-thAAAAcAAJ_output.epub , Pre-Process Time : 00:02:38.5357801
+2023-04-04 18:32:55.561 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 18:32:55.562 +05:30 [INF] Pre-Process Start.
+2023-04-04 18:32:55.562 +05:30 [INF] FileName : -9EB2AzKRpwC
+2023-04-04 18:32:55.564 +05:30 [INF] Doc object created.
+2023-04-04 18:32:55.585 +05:30 [INF] total Page Count : 33
+2023-04-04 18:32:55.585 +05:30 [INF] Start removing watermark.
+2023-04-04 18:32:55.595 +05:30 [INF] watermark removed
+2023-04-04 18:32:55.603 +05:30 [INF] removed page no : 0
+2023-04-04 18:32:58.338 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\-9EB2AzKRpwC_output.pdf
+2023-04-04 18:32:58.352 +05:30 [INF] Pre-Process End.
+2023-04-04 18:32:58.352 +05:30 [INF] file : -9EB2AzKRpwC , Pre-Process Time : 00:00:02.7898677
+2023-04-04 18:34:42.267 +05:30 [INF] file : -9EB2AzKRpwC_output.epub creted. time : 00:01:46.7046303
+2023-04-04 18:34:52.281 +05:30 [INF] file : -9EB2AzKRpwC_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\-9EB2AzKRpwC_output.epub; time : 00:01:56.7185513
+2023-04-04 18:34:52.281 +05:30 [INF] Post-Process Start.
+2023-04-04 18:34:59.622 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 18:34:59.622 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 18:35:26.681 +05:30 [INF] Merge img count : 25
+2023-04-04 18:35:28.153 +05:30 [INF] READ FILE FROM URL
+2023-04-04 18:35:31.375 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 18:35:31.682 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\-9EB2AzKRpwC_output\OEBPS\OcrResult.json
+2023-04-04 18:35:32.225 +05:30 [INF] Post-Process End.
+2023-04-04 18:35:32.225 +05:30 [INF] file : -9EB2AzKRpwC_output.epub , Pre-Process Time : 00:02:36.6627033
+2023-04-04 19:10:53.670 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 19:10:53.672 +05:30 [INF] Pre-Process Start.
+2023-04-04 19:10:53.672 +05:30 [INF] FileName : -9g_AAAAcAAJ
+2023-04-04 19:10:53.674 +05:30 [INF] Doc object created.
+2023-04-04 19:10:53.696 +05:30 [INF] total Page Count : 47
+2023-04-04 19:10:53.696 +05:30 [INF] Start removing watermark.
+2023-04-04 19:10:53.706 +05:30 [INF] watermark removed
+2023-04-04 19:10:53.714 +05:30 [INF] removed page no : 0
+2023-04-04 19:10:56.919 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\-9g_AAAAcAAJ_output.pdf
+2023-04-04 19:10:56.931 +05:30 [INF] Pre-Process End.
+2023-04-04 19:10:56.931 +05:30 [INF] file : -9g_AAAAcAAJ , Pre-Process Time : 00:00:03.2593316
+2023-04-04 19:12:55.344 +05:30 [INF] file : -9g_AAAAcAAJ_output.epub creted. time : 00:02:01.6725100
+2023-04-04 19:13:05.358 +05:30 [INF] file : -9g_AAAAcAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\-9g_AAAAcAAJ_output.epub; time : 00:02:11.6861769
+2023-04-04 19:13:05.358 +05:30 [INF] Post-Process Start.
+2023-04-04 19:13:40.595 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 19:13:40.595 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 19:14:06.025 +05:30 [INF] Merge img count : 76
+2023-04-04 19:14:07.715 +05:30 [INF] READ FILE FROM URL
+2023-04-04 19:14:11.015 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 19:14:11.370 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\-9g_AAAAcAAJ_output\OEBPS\OcrResult.json
+2023-04-04 19:14:11.955 +05:30 [INF] Post-Process End.
+2023-04-04 19:14:11.955 +05:30 [INF] file : -9g_AAAAcAAJ_output.epub , Pre-Process Time : 00:03:18.2834461
+2023-04-04 19:22:16.285 +05:30 [INF] HotFolder.exe is already running.
+2023-04-04 19:22:16.287 +05:30 [INF] Pre-Process Start.
+2023-04-04 19:22:16.287 +05:30 [INF] FileName : -7FDAQAAMAAJ
+2023-04-04 19:22:16.290 +05:30 [INF] Doc object created.
+2023-04-04 19:22:16.319 +05:30 [INF] total Page Count : 61
+2023-04-04 19:22:16.319 +05:30 [INF] Start removing watermark.
+2023-04-04 19:22:16.332 +05:30 [INF] watermark removed
+2023-04-04 19:22:16.342 +05:30 [INF] removed page no : 0
+2023-04-04 19:22:19.265 +05:30 [INF] Pdf Save at path : E:\EpubGenerator\PostProcessRelated\Pdfs\-7FDAQAAMAAJ_output.pdf
+2023-04-04 19:22:19.273 +05:30 [INF] Pre-Process End.
+2023-04-04 19:22:19.273 +05:30 [INF] file : -7FDAQAAMAAJ , Pre-Process Time : 00:00:02.9861125
+2023-04-04 19:24:54.760 +05:30 [INF] file : -7FDAQAAMAAJ_output.epub creted. time : 00:02:38.4726421
+2023-04-04 19:25:04.787 +05:30 [INF] file : -7FDAQAAMAAJ_output.epub copy at E:\EpubGenerator\PostProcessRelated\Input\-7FDAQAAMAAJ_output.epub; time : 00:02:48.4994140
+2023-04-04 19:25:04.787 +05:30 [INF] Post-Process Start.
+2023-04-04 19:25:37.342 +05:30 [INF] LastPageImage.jpg add to ePub file.
+2023-04-04 19:25:37.342 +05:30 [INF] data book GenerateIncorrectWordImage process start.
+2023-04-04 19:26:01.539 +05:30 [INF] Merge img count : 55
+2023-04-04 19:26:03.063 +05:30 [INF] READ FILE FROM URL
+2023-04-04 19:26:06.367 +05:30 [INF] Extracting text from URL file img1.png...
+2023-04-04 19:26:06.664 +05:30 [INF] ocr result file path : E:\EpubGenerator\PostProcessRelated\Output\-7FDAQAAMAAJ_output\OEBPS\OcrResult.json
+2023-04-04 19:26:07.279 +05:30 [INF] Post-Process End.
+2023-04-04 19:26:07.279 +05:30 [INF] file : -7FDAQAAMAAJ_output.epub , Pre-Process Time : 00:03:50.9916122
